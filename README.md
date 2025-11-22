@@ -62,7 +62,7 @@ A estrutura de deploy foi montada utilizando as seguintes tecnologias e provedor
 
 O diagrama abaixo ilustra a arquitetura geral do sistema Lume:
 
-![Arquitetura Macro]()
+![Arquitetura Macro](https://github.com/Wugabriel/LumeDevOps/blob/main/Untitled.png?raw=true)
 
 ***
 
